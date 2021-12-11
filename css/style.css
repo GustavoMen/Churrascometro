@@ -1,11 +1,15 @@
+body{
+    /*background-image: url(../assets/logo.png);
+    background-size: cover;*/
+}
+
 .container{
     font-family: Arial, Helvetica, sans-serif;
     width: 300px;
     margin: auto;
     background-color: aquamarine;
     border-radius: 20px;
-
-padding: 20px;
+    padding: 20px;
 }
 input{
     width: 100%;
